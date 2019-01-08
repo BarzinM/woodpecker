@@ -4,7 +4,7 @@ A program to help with music playing practice routines. For each practice in a g
 
 Image of the interface:
 
-![user interface](https://gitlab.com/BarzinM/practice/raw/master/interface_image.png)
+![user interface](https://raw.githubusercontent.com/BarzinM/woodpecker/master/interface_image.png)
 
 Name of the practice comes at the top. It shows the tempo (bpm) and time remaining for the current practice. At the bottom, it shows how many minutes is left for all the remaining practices in your practice routine.
 
