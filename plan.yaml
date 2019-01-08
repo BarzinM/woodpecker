@@ -1,0 +1,16 @@
+name of first practice:
+  bpm: 60   # or any other number
+  time: 3   # duration of practice in minutes
+
+name of second practice:
+  bpm: 80
+  time: 4   # in minutes
+
+name of third practice:
+  bpm: 0   # zero means don't play tic sound for this practice.
+  time: 10
+
+name of fourth practice:
+  bpm: 40
+  time: 4
+  rate: 5   # rate of each practice is optional. Means increase the bpm with a rate of 5 bpm per hour of practice
